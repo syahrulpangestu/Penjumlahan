@@ -10,5 +10,5 @@ int main(){
     int a = 1, b = 6, hasil;
 
     hasil = a + b;
-    printf("hasilnya adalah &d", hasil);
+    printf("Hasil penjumlahan dari 1 + 6 adalah %d",hasil);
 }
